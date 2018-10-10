@@ -1,0 +1,23 @@
+[{
+  "src": "/泡沫-好声音.mp3",
+  "title": "泡沫",
+  "auther": "好声音",
+  "img": "/泡沫.jpg"
+}, {
+  "src": "/赵紫骅 - 可乐.mp3",
+  "title": "可乐",
+  "auther": "赵紫骅",
+  "img": "/可乐.jpg"
+},
+{
+  "src": "/李宗盛 - 山丘 (Live).mp3",
+  "title": "山丘 (Live)",
+  "auther": "李宗盛",
+  "img": "/山丘.jpg"
+},
+{
+  "src": "/G.E.M. 邓紫棋 - 光年之外.mp3",
+  "title": "光年之外",
+  "auther": "G.E.M. 邓紫棋",
+  "img": "/光年之外.jpg"
+}]
