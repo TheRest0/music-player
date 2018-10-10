@@ -156,7 +156,7 @@
 
   <script>
 
-  var musicList = []
+  var musiclist = []
   var currentIndex = 0
   var clock
   var audio = new Audio()
@@ -246,7 +246,6 @@
   function loadMusic(musicObj){
   	$('.musicbox .title').innerText = musicObj.title
   	$('.musicbox .auther').innerText = musicObj.auther
-  	console.log(musicObj.img)
   	$('.cover').style.backgroundImage = 'url(' + musicObj.img + ')'
   	audio.src = musicObj.src
   }
